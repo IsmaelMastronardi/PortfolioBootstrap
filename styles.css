@@ -1,0 +1,37 @@
+.fixed-width {
+    
+    height: 474px;
+}
+
+.works-background {
+    height: 220px;
+    padding: 0;
+    background-color: rgba(208, 217, 212, 1);
+}
+
+.margin-bottom-BTN {
+    margin-bottom: 20px;
+}
+
+.no-paddign {
+    padding: 0;
+}
+
+.blueText {
+    color: rgba(23, 43, 77, 1);
+}
+
+.list-group-item {
+    color: rgba(23, 43, 77, 1);
+}
+
+.headingMargin {
+    margin-top: 50px;
+}
+
+@media (min-width: 1300px) { 
+    .marginMedia {
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+ }
