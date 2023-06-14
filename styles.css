@@ -16,3 +16,22 @@
 .no-paddign {
     padding: 0;
 }
+
+.blueText {
+    color: rgba(23, 43, 77, 1);
+}
+
+.list-group-item {
+    color: rgba(23, 43, 77, 1);
+}
+
+.headingMargin {
+    margin-top: 50px;
+}
+
+@media (min-width: 1300px) { 
+    .marginMedia {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+ }
