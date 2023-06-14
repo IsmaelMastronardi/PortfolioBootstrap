@@ -8,3 +8,11 @@
     padding: 0;
     background-color: rgba(208, 217, 212, 1);
 }
+
+.margin-bottom-BTN {
+    margin-bottom: 20px;
+}
+
+.no-paddign {
+    padding: 0;
+}
